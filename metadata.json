@@ -1,0 +1,6 @@
+{
+  "name": "Mau Sugih",
+  "description": "Platform ringkasan berita ekonomi harian berbasis AI dan analisis saham IDX real-time dengan screener fundamental, laporan keuangan, dan analisis sentimen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
